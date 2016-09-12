@@ -1,0 +1,17 @@
+C:\Users\User\AppData\Local\Temporary Projects\TP1\bin\Debug\TP1.exe
+C:\Users\User\AppData\Local\Temporary Projects\TP1\bin\Debug\TP1.pdb
+C:\Users\User\AppData\Local\Temporary Projects\TP1\obj\x86\Debug\TP1.Form1.resources
+C:\Users\User\AppData\Local\Temporary Projects\TP1\obj\x86\Debug\TP1.Properties.Resources.resources
+C:\Users\User\AppData\Local\Temporary Projects\TP1\obj\x86\Debug\TP1.csproj.GenerateResource.Cache
+C:\Users\User\AppData\Local\Temporary Projects\TP1\obj\x86\Debug\TP1.exe
+C:\Users\User\AppData\Local\Temporary Projects\TP1\obj\x86\Debug\TP1.pdb
+C:\Users\User\documents\visual studio 2010\Projects\TP1\TP1\obj\x86\Debug\TP1.exe
+C:\Users\User\documents\visual studio 2010\Projects\TP1\TP1\obj\x86\Debug\TP1.pdb
+C:\Users\User\documents\visual studio 2010\Projects\TP1\TP1\bin\Debug\TP1.exe
+C:\Users\User\documents\visual studio 2010\Projects\TP1\TP1\bin\Debug\TP1.pdb
+C:\Users\User\documents\visual studio 2010\Projects\TP1\TP1\obj\x86\Debug\TP1.Form1.resources
+C:\Users\User\documents\visual studio 2010\Projects\TP1\TP1\obj\x86\Debug\TP1.Properties.Resources.resources
+C:\Users\User\documents\visual studio 2010\Projects\TP1\TP1\obj\x86\Debug\TP1.csproj.GenerateResource.Cache
+C:\Users\User\documents\visual studio 2010\Projects\TP1\TP1\obj\x86\Debug\TP1.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\GitHub\tp_laboratorio_2\TP1\TP1\obj\x86\Debug\TP1.exe
+C:\Users\User\Documents\GitHub\tp_laboratorio_2\TP1\TP1\obj\x86\Debug\TP1.pdb
